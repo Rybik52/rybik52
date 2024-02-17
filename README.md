@@ -56,6 +56,14 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=rybik52&style=for-the-badge&color=1E232E)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rybik52&show_icons=true&theme=dark&locale=ru)
+[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rybik52&hide_progress=false&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rybik52&theme=dark&locale=ru)](https://git.io/streak-stats)
+[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rybik52&hide_progress=false&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rybik52&show_icons=true&locale=ru&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rybik52&show_icons=true&locale=ru&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![GitHub Streak stats-Dark](https://streak-stats.demolab.com/?user=rybik52&locale=ru&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![GitHub Streak stats-Light](https://streak-stats.demolab.com/?user=rybik52&locale=ru&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
